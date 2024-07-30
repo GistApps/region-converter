@@ -2,7 +2,7 @@
     "name": "gist/region-converter",
     "description": "Utility class to convert country and province state names to codes, and vice versa",
     "type": "composer-plugin",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "Gist\\": "src/"
