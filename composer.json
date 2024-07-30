@@ -1,0 +1,18 @@
+{
+    "name": "gist/region-converter",
+    "description": "Utility class to convert country and province state names to codes, and vice versa",
+    "type": "composer-plugin",
+    "license": "Gnupgv3",
+    "autoload": {
+        "psr-4": {
+            "Gist\\RegionConverter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zac Fair",
+            "email": "12246663+tuun@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
