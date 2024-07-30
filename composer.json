@@ -5,7 +5,7 @@
     "license": "Gnupgv3",
     "autoload": {
         "psr-4": {
-            "Gist\\RegionConverter\\": "src/"
+            "Gist\\": "src/"
         }
     },
     "authors": [

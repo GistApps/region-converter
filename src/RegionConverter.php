@@ -1,4 +1,6 @@
 <?php
+namespace Gist;
+
 class RegionConverter
 {
 
